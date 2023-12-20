@@ -7,6 +7,23 @@ It is a complete MERN stack project.
 I will soon be hosting it so that you can take its experience yourself.
 Till then I am attatching some screenshots of the project.
 
+
+<img width="1280" alt="Screenshot 2023-12-20 at 10 52 00 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/f9673df2-e750-45c1-a4a2-bcbab82ac8ae">
+
+<img width="1280" alt="Screenshot 2023-12-20 at 10 52 13 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/79f887f4-341b-4a04-88fd-0e6dd052a316">
+<img width="1280" alt="Screenshot 2023-12-20 at 10 52 19 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/63d474ea-8946-4942-96a8-8b098530e651">
+<img width="1280" alt="Screenshot 2023-12-20 at 10 52 39 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/74585b42-938d-480f-8a91-551c028182ee">
+<img width="1280" alt="Screenshot 2023-12-20 at 10 53 00 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/97110e50-4f7e-4f8d-9ac3-e4a7f85cf26c">
+<img width="1280" alt="Screenshot 2023-12-20 at 10 53 38 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/e18810df-b4c2-4390-8c65-8f2fd85fb44a">
+<img width="1280" alt="Screenshot 2023-12-20 at 10 53 43 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/c1ee865d-c611-492b-990a-bb6609953fc4">
+<img width="1280" alt="Screenshot 2023-12-20 at 10 53 47 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/0e8f7e06-c373-40e7-9d64-5572ae40ee34">
+<img width="1280" alt="Screenshot 2023-12-20 at 10 53 53 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/fbb6a3c8-9108-4c6b-af5c-2924b50b54fe">
+<img width="1280" alt="Screenshot 2023-12-20 at 10 54 09 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/018efff1-ab8c-44c9-a82d-8268db0631d8">
+<img width="1280" alt="Screenshot 2023-12-20 at 10 54 24 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/1ad28f47-91cc-47b5-ab2e-e4e6305dc7c9">
+<img width="1280" alt="Screenshot 2023-12-20 at 10 54 28 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/088cbde6-801c-445f-b5bb-1c5b3eb0a676">
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
