@@ -8,7 +8,7 @@ I will soon be hosting it so that you can take its experience yourself.
 Till then I am attatching some screenshots of the project.
 
 
-<img width="1280" alt="Screenshot 2023-12-20 at 10 52 00 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/f9673df2-e750-45c1-a4a2-bcbab82ac8ae">
+<img width="640" alt="Screenshot 2023-12-20 at 10 52 00 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/f9673df2-e750-45c1-a4a2-bcbab82ac8ae">
 
 <img width="1280" alt="Screenshot 2023-12-20 at 10 52 13 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/79f887f4-341b-4a04-88fd-0e6dd052a316">
 <img width="1280" alt="Screenshot 2023-12-20 at 10 52 19 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/63d474ea-8946-4942-96a8-8b098530e651">
