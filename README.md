@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Food-E is an online food ordering website. It is developed using technologies like React.js, Node.js, Express.js, Mongodb and Bootstrap.
+It is a complete MERN stack project.
+I will soon be hosting it so that you can take its experience yourself.
+Till then I am attatching some screenshots of the project.
+
 ## Available Scripts
 
 In the project directory, you can run:
