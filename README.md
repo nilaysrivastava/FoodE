@@ -9,7 +9,6 @@ Till then I am attatching some screenshots of the project.
 
 
 <img width="400" alt="Screenshot 2023-12-20 at 10 52 00 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/f9673df2-e750-45c1-a4a2-bcbab82ac8ae">
-
 <img width="400" alt="Screenshot 2023-12-20 at 10 52 13 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/79f887f4-341b-4a04-88fd-0e6dd052a316">
 <img width="400" alt="Screenshot 2023-12-20 at 10 52 19 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/63d474ea-8946-4942-96a8-8b098530e651">
 <img width="400" alt="Screenshot 2023-12-20 at 10 52 39 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/74585b42-938d-480f-8a91-551c028182ee">
@@ -21,7 +20,8 @@ Till then I am attatching some screenshots of the project.
 <img width="400" alt="Screenshot 2023-12-20 at 10 54 09 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/018efff1-ab8c-44c9-a82d-8268db0631d8">
 <img width="400" alt="Screenshot 2023-12-20 at 10 54 24 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/1ad28f47-91cc-47b5-ab2e-e4e6305dc7c9">
 <img width="400" alt="Screenshot 2023-12-20 at 10 54 28 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/088cbde6-801c-445f-b5bb-1c5b3eb0a676">
-
+<img width="400" alt="Screenshot 2023-12-20 at 11 04 21 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/539f6d02-0095-4f21-aa92-c64891a5d195">
+<img width="400" alt="Screenshot 2023-12-20 at 11 04 33 AM" src="https://github.com/nilaysrivastava/FoodE/assets/139038819/8a116012-fa07-4677-a56a-1c5348acdf92">
 
 
 ## Available Scripts
