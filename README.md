@@ -2,6 +2,15 @@
 
 Food-E is an online food ordering website. It is developed using technologies like React.js, Node.js, Express.js, Mongodb and Bootstrap.
 It is a complete MERN stack project.
+
+# Key-points
+- Online food ordering app
+- Based upon ReactJs
+- MongoDB used for database
+- User Signup and Login functionality
+- Orders, Cart and Checkout functionality
+- Category-wise food items
+- 
 I will soon be hosting it so that you can take its experience yourself.
 Till then I am attatching some screenshots of the project.
 
